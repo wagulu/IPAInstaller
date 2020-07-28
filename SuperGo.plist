@@ -32,13 +32,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.mmp.mmpas</string>
+                <string>com.aaammp.aaammpas</string>
                 <key>bundle-version</key>
                 <string>2.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>下载:</string>
+                <string></string>
                 <key>title</key>
                 <string>Super Go</string>
             </dict>
