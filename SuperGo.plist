@@ -18,7 +18,7 @@
                     <key>needs-shine</key>
                     <string>NO</string>
                     <key>url</key>
-                    <string>https://www.xunlei-ios.com/res/xunlei.png</string>
+                    <string></string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -26,7 +26,7 @@
                     <key>needs-shine</key>
                     <string>NO</string>
                     <key>url</key>
-                    <string>https://www.xunlei-ios.com/res/xunlei.png</string>
+                    <string></string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -38,7 +38,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>【蒲公英】【直播渠道和通用渠道】New Times Securities Co., Ltd</string>
+                <string>下载:</string>
                 <key>title</key>
                 <string>Super Go</string>
             </dict>
