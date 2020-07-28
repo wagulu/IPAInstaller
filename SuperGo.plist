@@ -18,7 +18,7 @@
                     <key>needs-shine</key>
                     <string>NO</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/liu-congcong/IPAInstaller/master/Icon.png</string>
+                    <string>https://raw.githubusercontent.com/liu-congcong/IPAInstaller/master/icon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -26,7 +26,7 @@
                     <key>needs-shine</key>
                     <string>NO</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/liu-congcong/IPAInstaller/master/Icon.png</string>
+                    <string>https://raw.githubusercontent.com/liu-congcong/IPAInstaller/master/icon.png</string>
                 </dict>
             </array>
             <key>metadata</key>
