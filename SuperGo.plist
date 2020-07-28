@@ -1,49 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>items</key>
+    <key>items</key>
     <array>
-      <dict>
-        <key>assets</key>
-        <array>
-          <dict>
-            <key>kind</key>
-            <string>software-package</string>
-            <key>url</key>
-            <string>https://github.com/liu-congcong/IPAInstaller/blob/master/SuperGo.ipa</string>
-          </dict>
-          <dict>
-            <key>kind</key>
-            <string>full-size-image</string>
-            <key>needs-shine</key>
-            <false/>
-            <key>url</key>
-            <string></string>
-          </dict>
-          <dict>
-            <key>kind</key>
-            <string>display-image</string>
-            <key>needs-shine</key>
-            <false/>
-            <key>url</key>
-            <string></string>
-          </dict>
-        </array>
-        <key>metadata</key>
         <dict>
-          <key>bundle-identifier</key>
-          <string>com.aads1.saddsads1</string>
-          <key>bundle-version</key>
-          <string>1.0</string>
-          <key>kind</key>
-          <string>software</string>
-          <key>subtitle</key>
-          <string></string>
-          <key>title</key>
-          <string>Super Go</string>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/liu-congcong/IPAInstaller/blob/master/SuperGo.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <string>NO</string>
+                    <key>url</key>
+                    <string>https://www.xunlei-ios.com/res/xunlei.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <string>NO</string>
+                    <key>url</key>
+                    <string>https://www.xunlei-ios.com/res/xunlei.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.xunlei.iosthunder</string>
+                <key>bundle-version</key>
+                <string>5.34(5.34.1.6507)</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>【蒲公英】【直播渠道和通用渠道】New Times Securities Co., Ltd</string>
+                <key>title</key>
+                <string>迅雷Beta</string>
+            </dict>
         </dict>
-      </dict>
     </array>
-  </dict>
+</dict>
 </plist>
