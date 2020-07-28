@@ -32,9 +32,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.aaammp.aaammpas</string>
+                <string>com.liucongcong.supergo</string>
                 <key>bundle-version</key>
-                <string>2.1</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
